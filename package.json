@@ -1,0 +1,15 @@
+{
+  "name": "payvision",
+  "version": "1.0.0",
+  "description": "Fraud prevention script that detects duplicate transactions in the same deal",
+  "main": "payvision.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Díaz de la Calle",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {}
+}
